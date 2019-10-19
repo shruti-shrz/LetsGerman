@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">germanclone</string>
+    <string name="Number">Numbers</string>
+    <string name="family">FamilyMembers</string>
+    <string name="color">Colors</string>
+    <string name="phrases">Phrases</string>
+</resources>
